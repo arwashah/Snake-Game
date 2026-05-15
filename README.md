@@ -3,7 +3,7 @@ One of the first full-stack projects I built while learning web development.
 I wanted to go beyond just following tutorials and actually build something 
 from scratch that has a real frontend, a real backend, and they talk to each other.
 
-The game is simple — you're a snake, you eat food, you grow, you try not to 
+The game is simple.You're a snake, you eat food, you grow, you try not to 
 die. But under the hood there's a Node.js server running that saves every 
 score to a leaderboard, so you're always competing against previous runs.
 
